@@ -1,7 +1,9 @@
 # 💫 About Me:
 
 👋 Hi, I’m Osmar  
+
 👀 I’m interested in Mobile & Web Development  
+
 🌱 I’m currently learning Flutter and PHP
 
 😄 Pronouns: he/him  
