@@ -1,8 +1,9 @@
-# Hi there, I'm Osmar 👋
+# 💫 About Me:
 
-🎓 I’m a student learning **Mobile Development and Web Development**  
-💻 Interested in Mobile Apps, API, and Frontend Development  
-🌱 Currently exploring: Mobile Development & Laravel
+👋 Hi, I’m Osmar  
+👀 I’m interested in Mobile & Web Development  
+🌱 I’m currently learning Flutter and PHP
+😄 Pronouns: he/him  
 
 ---
 
