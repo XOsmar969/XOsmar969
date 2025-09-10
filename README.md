@@ -14,12 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Osmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOsmar969&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOsmar969&layout=compact&theme=tokyonight)
-
----
-
 ### 📌 Featured Projects
 - [todolistapp_27_26](https://github.com/XOsmar969/todolistapp_27_26) → Flutter To-Do List App 📱  
 - [RecyclerView](https://github.com/XOsmar969/RecyclerView) → Java Android RecyclerView Example 📂  
