@@ -1,8 +1,8 @@
 # Hi there, I'm Osmar 👋
 
-🎓 I’m a student learning **Flutter, Java, and Web Development**  
+🎓 I’m a student learning **Mobile Development and Web Development**  
 💻 Interested in Mobile Apps, API, and Frontend Development  
-🌱 Currently exploring: Android Development & Flutter  
+🌱 Currently exploring: Mobile Development & Laravel
 
 ---
 
